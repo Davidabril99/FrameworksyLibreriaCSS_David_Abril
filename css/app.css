@@ -1,0 +1,42 @@
+body{
+background-image: url(https://d2gg9evh47fn9z.cloudfront.net/thumb_COLOURBOX9735255.jpg);
+background-size: 200px;
+}
+
+div{
+  border: 1px black ;
+  background:;
+}
+h5, h1{
+  text-align: right;
+  padding-right: 15px;
+}
+.bus{
+  margin-top: 20px;
+}
+.callout{
+  background-color: white
+}
+.usa{
+  background-color: #ECF2C5
+}
+.comentar{
+  float: left;
+}
+h1
+{
+  color: white;
+}
+.contenedor{
+
+}
+ul{
+  list-style: none;
+}
+.user{
+  max-width: 40px;
+
+}
+.contenedorr{
+  background-color: #ECF2C5
+}

@@ -1,0 +1,46 @@
+header{
+  background: red;
+}
+#logo-festival{
+  width: 180px;
+  float: left;
+}
+.redes-sociales{
+  width: 50px;
+  float: right;
+  position: relative;
+  bottom: -90px;
+}
+.papi{
+  background: yellow;
+}
+.mami{
+  background: blue;
+}
+body{
+  background: gray;
+}
+.encabezado{
+  background: white
+}
+.info-img{
+  margin: 0 auto;
+}
+.cuerpo{
+  margin-top: 10px;
+  background: white;
+  padding: 15px;
+}
+.user-icon{
+  width: 30px;
+  margin-bottom: 19px;
+  margin-left: 20px;
+  margin-right: 10px
+}
+.comentar{
+  margin-top: 20px;
+  width: 80%
+}
+.column-search{
+  margin-top: 15px;
+}
